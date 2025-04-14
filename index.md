@@ -11,4 +11,6 @@ This is a paragraph about me. It explains my major at UCF, my career goals, and 
 <center><img src="https://ekjphd.com/wp-content/uploads/2024/12/ilrn_avatarday-3-e1734120202850.jpg"></center>
 
 
-[Back to top](https://github.com/ekjphd/ENC4265/edit/main/index.md#about-me) 
+## Another Header
+
+[Back to top](#About-Me) 
